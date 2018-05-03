@@ -1,0 +1,8 @@
+baseURL = "https://re3turn.github.io/blog/"
+languageCode = "en-us"
+title = "return 3"
+theme = "beautifulhugo"
+canonifyurls = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
