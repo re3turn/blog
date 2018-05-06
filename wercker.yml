@@ -20,5 +20,6 @@ deploy:
         gh_oauth: $GIT_TOKEN
         repo: re3turn/blog
         branch: master
-
+        basedir: public
+        destdir: docs
     
