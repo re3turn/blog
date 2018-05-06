@@ -16,8 +16,9 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client curl
-    - lukevivier/gh-pages:
-        token: $GIT_TOKEN
+    - leipert/git-push:
+        gh_oauth: $GIT_TOKEN
         repo: re3turn/blog
         branch: master
         destdir: docs
+    
