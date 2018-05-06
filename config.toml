@@ -1,11 +1,28 @@
 baseURL = "https://re3turn.github.io/blog/"
-languageCode = "en-us"
+DefaultContentLanguage = "en"
 title = "return 3"
 theme = "beautifulhugo"
 canonifyurls = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 googleAnalytics = "UA-44827617-3"
+
+[Params]
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+  socialShare = true
+
+[Author]
+  name = "re3turn"
+  email = "re3turn@gmail.com"
+  github = "re3turn"
+  twitter = "re3turn"
+  spotify = "re3turn"
+  telegram = "re3turn"
 
 [staticmanr]
     api = "https://api.staticman.net/v2/entry/re3turn/blog/master/comments"
