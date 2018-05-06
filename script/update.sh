@@ -6,6 +6,7 @@ SCRIPT_DIR=$(cd $(dirname $0); pwd)
 
 cd ${SCRIPT_DIR}/..
 
+git pull origin master
 echo -e "\033[0;32mUpdate blog...\033[0m"
 
 # Add changes to git.
