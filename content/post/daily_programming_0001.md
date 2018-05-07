@@ -9,7 +9,7 @@ tags: [Daily_Programming]
 
 FizzBuzzは、1から表示するものと0から表示するものがあるが、今回は0から表示するものにした。オーソドックスなのは1-100のタイプ。
 
-最近Goを勉強し始めたが、GoはCを習得してる人であれば比較的すんなり書ける言語だと思う。
+最近Goを勉強し始めたが、GoはCを習得してる人であれば比較的すんなり書ける言語だと思う。
 
 # FizzBuzz [Golang]
 
@@ -20,4 +20,3 @@ FizzBuzzは、1から表示するものと0から表示するものがあるが�
 ## Code
 
 <iframe src='https://glot.io/snippets/f0f89sbbp6/embed' frameborder='0' scrolling='no' sandbox='allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts' width='600' height='600'></iframe>
-
