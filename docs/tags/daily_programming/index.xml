@@ -31,11 +31,11 @@ Code  </description>
       <pubDate>Sun, 06 May 2018 20:58:31 +0900</pubDate>
       <author>re3turn@gmail.com (re3turn)</author>
       <guid>https://re3turn.github.io/blog/post/daily_programming_0001/</guid>
-      <description>初日なのでとりあえずFizzBuzz。
+      <description> 初日なのでとりあえずFizzBuzz。
 FizzBuzzは、1から表示するものと0から表示するものがあるが、今回は0から表示するものにした。オーソドックスなのは1-100のタイプ。
-最近Goを勉強し始めたが、GoはCを習得してる人であれば比較的すんなり書ける言語だと思う。
+最近Goを勉強し始めたが、GoはCを習得してる人であれば比較的すんなり書ける言語だと思う。
 FizzBuzz [Golang] Question 0から100までの数を順に表示していく。ただし、3の倍数の時は数字の代わりに &amp;lsquo;Fizz&amp;rsquo; と表示する。5の倍数のときは数字の代わりに &amp;lsquo;Buzz&amp;rsquo; と表示する。両方の倍数のときは数字の代わりに &amp;lsquo;FizzBuzz&amp;rsquo; と表示する。0の場合は数字を表示する。
-Code  </description>
+Code  </description>
     </item>
     
     <item>
