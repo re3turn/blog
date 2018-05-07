@@ -9,6 +9,9 @@ cd ${SCRIPT_DIR}/..
 git pull origin master
 echo -e "\033[0;32mUpdate blog...\033[0m"
 
+# Delete unsupported character code in XML
+sed -i -e $'s/\x8//g' content/post/*.md
+
 # Add changes to git.
 git add content/.
 
