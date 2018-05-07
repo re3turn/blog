@@ -20,7 +20,6 @@ tags: [Daily_Programming]
 
 文字列"stressed"の文字を逆に（末尾から先頭に向かって）並べた文字列を得よ
 
-
 # Code
 
-<iframe src='https://glot.io/snippets/f0tb825ruj/embed' frameborder='0' scrolling='no' sandbox='allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts' width='600' height='600'></iframe>
+<iframe src='https://glot.io/snippets/f0tb825ruj/embed' frameborder='0' scrolling='yes' sandbox='allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts' width='600' height='600'></iframe>
