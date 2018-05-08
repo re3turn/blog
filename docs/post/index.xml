@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>re3turn@gmail.com (re3turn)</managingEditor>
     <webMaster>re3turn@gmail.com (re3turn)</webMaster>
-    <lastBuildDate>Mon, 07 May 2018 21:44:59 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 May 2018 23:45:46 +0900</lastBuildDate>
     
 	<atom:link href="https://re3turn.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Programming #0003</title>
+      <link>https://re3turn.github.io/blog/post/daily_programming_0003/</link>
+      <pubDate>Tue, 08 May 2018 23:45:46 +0900</pubDate>
+      <author>re3turn@gmail.com (re3turn)</author>
+      <guid>https://re3turn.github.io/blog/post/daily_programming_0003/</guid>
+      <description> 言語処理100本ノック 2015の01をやっていく。
+01. 「パタトクカシーー」 [Golang] runeに変換して1,3,5,7文字目を取り出せばすぐだけど一応汎用的に書いた。
+Question 「パタトクカシーー」という文字列の1,3,5,7文字目を取り出して連結した文字列を得よ
+Code  </description>
+    </item>
     
     <item>
       <title>Daily Programming #0002</title>
