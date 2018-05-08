@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>re3turn@gmail.com (re3turn)</managingEditor>
     <webMaster>re3turn@gmail.com (re3turn)</webMaster>
-    <lastBuildDate>Tue, 08 May 2018 23:45:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 May 2018 03:28:47 +0900</lastBuildDate>
     
 	<atom:link href="https://re3turn.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Programming #0004</title>
+      <link>https://re3turn.github.io/blog/post/daily_programming_0004/</link>
+      <pubDate>Wed, 09 May 2018 03:28:47 +0900</pubDate>
+      <author>re3turn@gmail.com (re3turn)</author>
+      <guid>https://re3turn.github.io/blog/post/daily_programming_0004/</guid>
+      <description>言語処理100本ノック 2015の#02をやっていく。
+02. 「パトカー」＋「タクシー」＝「パタトクカシーー」 [Golang] Question 「パトカー」＋「タクシー」の文字を先頭から交互に連結して文字列「パタトクカシーー」を得よ
+Code  2つの文字列の長さが違う場合を考慮してこんな形にしてみた。
+ここの回答にあるみたいにstringに追加していくのとスライスを予め作って追加していくのだとどちらがいいのだろうか？</description>
+    </item>
     
     <item>
       <title>Daily Programming #0003</title>
