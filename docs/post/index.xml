@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>re3turn@gmail.com (re3turn)</managingEditor>
     <webMaster>re3turn@gmail.com (re3turn)</webMaster>
-    <lastBuildDate>Wed, 09 May 2018 03:28:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:21:17 +0900</lastBuildDate>
     
 	<atom:link href="https://re3turn.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Programming #0005</title>
+      <link>https://re3turn.github.io/blog/post/daily_programming_0005/</link>
+      <pubDate>Thu, 10 May 2018 00:21:17 +0900</pubDate>
+      <author>re3turn@gmail.com (re3turn)</author>
+      <guid>https://re3turn.github.io/blog/post/daily_programming_0005/</guid>
+      <description>言語処理100本ノック 2015の#03をやっていく。
+03. 円周率 [Golang] Question &amp;ldquo;Now I need a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.&amp;ldquo;という文を単語に分解し，各単語の（アルファベットの）文字数を先頭から出現順に並べたリストを作成せよ
+Code  GoにしてもPythonにしても文字列操作は簡単でいい。</description>
+    </item>
     
     <item>
       <title>Daily Programming #0004</title>
