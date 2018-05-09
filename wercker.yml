@@ -8,7 +8,7 @@ build:
         code: |
             $(git clone https://github.com/halogenica/beautifulhugo.git ./themes/beautifulhugo)
     - arjen/hugo-build:
-        version: "0.40.2"
+        version: "0.40.3"
         theme: beautifulhugo
         flags: --buildDrafts=false
 
