@@ -19,7 +19,6 @@ deploy:
     - leipert/git-push:
         gh_oauth: $GIT_TOKEN
         repo: re3turn/blog
-        branch: master
+        branch: gh-pages
         basedir: public
-        destdir: docs
     
