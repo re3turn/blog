@@ -16,7 +16,7 @@ sed -i -e $'s/\x8//g' content/post/*.md
 git add content/.
 
 # Commit changes.
-msg="Update blog '`date "+%Y%m%d-%H%M%S"`'"
+msg="Update blog '`date "+%Y%m%d-%H:%M:%S"`'"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
