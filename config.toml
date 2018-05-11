@@ -1,8 +1,9 @@
 baseURL = "https://re3turn.github.io/blog/"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ja"
 title = "return 3"
 theme = "beautifulhugo"
 canonifyurls = true
+HasCJKLanguage = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 googleAnalytics = "UA-44827617-3"
@@ -18,7 +19,6 @@ googleAnalytics = "UA-44827617-3"
 
 [Author]
   name = "re3turn"
-  email = "re3turn@gmail.com"
   github = "re3turn"
   twitter = "re3turn"
   spotify = "re3turn"
