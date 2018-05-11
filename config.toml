@@ -1,5 +1,5 @@
 baseURL = "https://re3turn.github.io/blog/"
-DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"
 title = "return 3"
 theme = "beautifulhugo"
 canonifyurls = true
