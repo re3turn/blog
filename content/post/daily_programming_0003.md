@@ -2,7 +2,7 @@
 title: "Daily Programming #0003"
 date: 2018-05-08T23:45:46+09:00
 subtitle: ""
-tags: [Daily_Programming]
+tags: ["Daily_Programming", "Golang"]
 ---
 
 [言語処理100本ノック 2015][1]の01をやっていく。

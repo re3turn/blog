@@ -2,7 +2,7 @@
 title: "Daily Programming #0001"
 date: 2018-05-06T20:58:31+09:00
 subtitle: ""
-tags: [Daily_Programming]
+tags: ["Daily_Programming", "Golang"]
 ---
 
 初日なのでとりあえずFizzBuzz。
