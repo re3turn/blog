@@ -2,7 +2,6 @@ baseURL = "https://re3turn.github.io/blog/"
 DefaultContentLanguage = "en"
 title = "three return"
 theme = "beautifulhugo"
-canonifyurls = true
 HasCJKLanguage = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
