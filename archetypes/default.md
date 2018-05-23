@@ -1,6 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "{{ replace .TranslationBaseName "____" " " | title }}"
 date: {{ .Date }}
 subtitle: ""
-tags: []
+tags: ["Daily_Programming", "Golang"]
+comments = true
 ---
