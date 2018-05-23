@@ -19,7 +19,7 @@ tags: ["Daily_Programming", "Golang"]
 
 ## Code
 
-[100knock #15][snipet]
+[100knock #16][snipet]
 
 <iframe src='https://glot.io/snippets/f18c6ic2du/embed' frameborder='0' scrolling='no' sandbox='allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts' width='600' height='400'></iframe>
 

@@ -3,7 +3,6 @@ title: "Daily programming #0019"
 date: 2018-05-24T03:03:30+09:00
 subtitle: ""
 tags: ["Daily_Programming", "Golang"]
-comments: true
 ---
 
 [言語処理100本ノック 2015][100knock]の#17をやっていく。
