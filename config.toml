@@ -7,6 +7,9 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 googleAnalytics = "UA-44827617-3"
 
+disqus_short_name = "re3tur"
+disqus_show_comment_count = false
+
 [Params]
   dateFormat = "January 2, 2006"
   commit = false
