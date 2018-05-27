@@ -24,7 +24,7 @@ googleAnalytics = "UA-44827617-3"
   telegram = "re3turn"
 
 [staticman]
-    api = "https://api.staticman.net/v2/entry/re3turn/blog/master/comments"
+    api = "https://api.staticman.net/v2/entry/re3turn/blog/gh-pages/comments"
     pulls = "https://github.com/re3turn/blog/pulls"
     [staticman.recaptcha]
       sitekey = "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
