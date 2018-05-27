@@ -23,10 +23,10 @@ googleAnalytics = "UA-44827617-3"
   spotify = "re3turn"
   telegram = "re3turn"
 
-[staticmanr]
+[staticman]
     api = "https://api.staticman.net/v2/entry/re3turn/blog/master/comments"
     pulls = "https://github.com/re3turn/blog/pulls"
-    [staticmanr.recaptcha]
+    [staticman.recaptcha]
       sitekey = "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
       secret = "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
 
