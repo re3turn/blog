@@ -27,13 +27,13 @@ neko.txt.mecabのサイズが大きいためglot.ioではそのまま実行で�
 
 [100knock #32][snipet]
 
-<iframe src='https://glot.io/snippets/f1rnc1mrvt/embed' frameborder='0' scrolling='no' sandbox='allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts' width='600' height='400'></iframe>
+<iframe src='https://glot.io/snippets/f1trajof3x/embed' frameborder='0' scrolling='no' sandbox='allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts' width='600' height='400'></iframe>
 
 ## Output
 
 ```:shell
-$ ./main ../neko.txt.mecab
-[見当 記憶 そうだ 話 装飾 突起 運転 記憶 ようやく 分別]
+./main ../neko.txt.mecab
+[生れる つく 泣く する いる 始める 見る 聞く 捕える 煮る]
 ```
 
 出力結果は大量に出力されるため、例として最初から10個分を出力した。
@@ -46,6 +46,6 @@ $ ./main ../neko.txt.mecab
 
 [100knock]:http://www.cl.ecei.tohoku.ac.jp/nlp100/#ch4
 [inputfile]:http://www.cl.ecei.tohoku.ac.jp/nlp100/data/neko.txt
-[snipet]:https://glot.io/snippets/f1rnc1mrvt
+[snipet]:https://glot.io/snippets/f1trajof3x
 [mecab]:https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md
 [31]:https://re3turn.github.io/blog/post/daily_programming_0033/
