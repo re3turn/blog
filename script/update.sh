@@ -14,6 +14,7 @@ sed -i -e $'s/\x8//g' content/post/*.md
 
 # Add changes to git.
 git add content/.
+git add static/images/.
 
 # Commit changes.
 msg="Update blog '`date "+%Y%m%d-%H:%M:%S"`'"
