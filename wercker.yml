@@ -11,6 +11,13 @@ build:
         version: "0.42.1"
         theme: beautifulhugo
         flags: --buildDrafts=false
+  steps:
+    - script:
+        name: copy staticman.yml
+        code: |
+            pwd
+            ls -la
+            cp -r ./staticman.yml ./public
 
 deploy:
   steps:
