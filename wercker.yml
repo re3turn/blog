@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - add-ssh-key:
-        keyname: WERCKER_KEY_PUBLIC
+        keyname: WERCKER_SSH_KEY
         host: github.com
     - add-to-known_hosts:
         hostname: github.com
