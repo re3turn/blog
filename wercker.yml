@@ -20,14 +20,14 @@ build:
 
 deploy:
   steps:
+    - install-packages:
+        packages: git ssh-client curl
     - add-ssh-key:
         keyname: WERCKER_SSH_KEY
         host: github.com
     - add-to-known_hosts:
         hostname: github.com
         fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
-    - install-packages:
-        packages: git ssh-client curl
     - leipert/git-push:
         gh_oauth: $GIT_TOKEN
         repo: re3turn/blog
