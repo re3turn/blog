@@ -1,12 +1,6 @@
 box: debian
 build:
   steps:
-    - add-ssh-key:
-        keyname: WERCKER_SSH_KEY
-        host: github.com
-    - add-to-known_hosts:
-        hostname: github.com
-        fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
     - install-packages:
         packages: git
     - script:
@@ -26,6 +20,12 @@ build:
 
 deploy:
   steps:
+    - add-ssh-key:
+        keyname: WERCKER_SSH_KEY
+        host: github.com
+    - add-to-known_hosts:
+        hostname: github.com
+        fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
     - install-packages:
         packages: git ssh-client curl
     - leipert/git-push:
